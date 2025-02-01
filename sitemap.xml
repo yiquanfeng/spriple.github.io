@@ -3,6 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://spriple.github.io/posts/my-second-post/</loc>
+    <lastmod>2025-02-01T18:56:55+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://spriple.github.io/posts/</loc>
     <lastmod>2025-02-01T18:56:55+08:00</lastmod>
     <changefreq>daily</changefreq>
