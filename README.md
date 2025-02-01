@@ -1,2 +1,2 @@
 # spriple.github.io
-blog
+visit blog at [yiquanfeng.github.io]
