@@ -9,7 +9,17 @@
     <managingEditor>yiquanfeng@qq.com (Spriple)</managingEditor>
     <webMaster>yiquanfeng@qq.com (Spriple)</webMaster>
     <copyright>© 2025 Spriple</copyright>
-    <atom:link href="https://yiquanfeng.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Feb 2025 21:54:09 +0800</lastBuildDate><atom:link href="https://yiquanfeng.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Github</title>
+      <link>https://yiquanfeng.github.io/tags/github/</link>
+      <pubDate>Sat, 01 Feb 2025 21:54:09 +0800</pubDate>
+      <author>yiquanfeng@qq.com (Spriple)</author>
+      <guid>https://yiquanfeng.github.io/tags/github/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>
