@@ -3,19 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://yiquanfeng.github.io/posts/learn-github/</loc>
-    <lastmod>2025-02-01T21:54:09+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://yiquanfeng.github.io/posts/</loc>
-    <lastmod>2025-02-01T21:54:09+08:00</lastmod>
+    <lastmod>2025-02-08T15:54:32+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://yiquanfeng.github.io/</loc>
+    <lastmod>2025-02-08T15:54:32+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://yiquanfeng.github.io/posts/learn-github/</loc>
     <lastmod>2025-02-01T21:54:09+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
