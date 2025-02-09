@@ -1,2 +1,2 @@
-# spriple.github.io
-visit blog at [[Spriple's Blog](https://yiquanfeng.github.io/)]
+# Spriple
+if you are intersted in my blog, you can visit [Spriple's Blog](https://spriple.cn)
